@@ -1,7 +1,7 @@
 ﻿  MiniProject.cpp
+D:\New folder (6)\MiniProject\MiniProject\MiniProject.cpp(12,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
 D:\New folder (6)\MiniProject\MiniProject\MiniProject.cpp(13,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-D:\New folder (6)\MiniProject\MiniProject\MiniProject.cpp(14,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\New folder (6)\MiniProject\MiniProject\MiniProject.cpp(32,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
 D:\New folder (6)\MiniProject\MiniProject\MiniProject.cpp(33,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-D:\New folder (6)\MiniProject\MiniProject\MiniProject.cpp(34,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-D:\New folder (6)\MiniProject\MiniProject\MiniProject.cpp(105,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\New folder (6)\MiniProject\MiniProject\MiniProject.cpp(118,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
   MiniProject.vcxproj -> D:\New folder (6)\MiniProject\x64\Debug\MiniProject.exe
