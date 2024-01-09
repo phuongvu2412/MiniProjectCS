@@ -172,12 +172,12 @@ int main() {
                 cout << "Please enter the search algorithm (Naive Search or Rabin Karp): ";
                 getline(cin, algorithm);
                 // Perform the selected search algorithm
-                if (algorithm == "Naive Search") {
+                if (algorithm == "Naive Search" || algorithm == "naive search") {
                     if (findWord(text, naiveSearch)) {
                         executionTime(naiveSearch, text, pattern);
                     }
                 }
-                else if (algorithm == "Rabin Karp") {
+                else if (algorithm == "Rabin Karp" || algorithm == "rabin karp") {
                     if (findWord(text, rabinKarp)) {
                         executionTime(rabinKarp, text, pattern);
                     }
